@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"nutscript"
+	"title"		"Metro 2033 RP"
+	"author"	"netzona.org"
+	"menusystem" "1"
+}
